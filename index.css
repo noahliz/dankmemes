@@ -1,0 +1,36 @@
+body {
+   background-image: url('https://i.imgur.com/fFDjBZ9.jpg');
+}
+.nav a{
+    color: yellow;
+    text-transform: uppercase;
+align-content: center;
+
+}
+.nav li{
+    display: inline;
+    padding: 80px;
+    
+}
+h1 {
+    text-align: center;
+    color:green;
+    text-transform: full-width;
+    font-size: 70px;
+}
+h2 {
+    text-align:center;
+    color:blueviolet;
+    font-size: 50px;
+}
+h3{
+    text-align: center;
+    color: chartreuse;
+    font-size: 80px;
+    font-style: italic;
+}
+p {
+    text-align: center;
+    color: aqua;
+    font-size: 20px;
+}
