@@ -1,6 +1,6 @@
 body {
    background-image: url('https://i.imgur.com/fFDjBZ9.jpg');
-    position: sticky;
+    position:static;
 }
 .nav a{
     color: yellow;
